@@ -1,7 +1,8 @@
+
 {
-  "app_enabled": false,
-  "maintenance": true,
-  "message": "PhantomSight is temporarily offline for updates. Please reopen shortly.",
-  "force_close": true,
+  "app_enabled": true,
+  "maintenance": false,
+  "message": "PhantomSight is online.",
+  "force_close": false,
   "latest_version": "1.0.0"
 }
